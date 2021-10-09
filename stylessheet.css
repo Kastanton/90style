@@ -1,0 +1,37 @@
+.lyrics{
+    text-align: center;
+    font-weight: bold;
+    color: blue
+  }
+  
+  .Click-Here {
+    background-color: #4CAF50; Green;
+    border: none;
+    color: rgb(5, 5, 5);
+    padding: 60px 84px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    border-radius: 50%;
+    shape-outside: circle();
+    clip-path: circle();
+    align-items: center;
+  }
+
+  body {
+    background-image: url("https://m.media-amazon.com/images/I/41FbwaBuXCL._AC_.jpg");
+    background-repeat: repeat-y;
+
+  }
+  
+  h1 {
+    color: rgb(51, 231, 15);
+    text-align: center;
+    font-family: Monaco;
+    font-size: 100px;
+  }
+  
+  p {
+    font-family: "Monaco", Serif;
+    font-size: 20px;
+  }
